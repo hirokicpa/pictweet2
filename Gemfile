@@ -8,6 +8,7 @@ gem  'mysql2', '0.3.18'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
 gem 'pry-rails'
+gem 'device'
 gem 'compass-rails','~> 2.0'
 gem 'sprockets', '2.11.0'
 # Use Uglifier as compressor for JavaScript assets
